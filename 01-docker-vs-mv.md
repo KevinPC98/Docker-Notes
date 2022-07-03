@@ -13,3 +13,11 @@ En resumen, docker correr un contenedor a partir de una imagen, esta imagen cont
 - Sistema Operativo
 - Software (apache y librerias)
 - App
+
+## Imagen
+
+Es un archivo o file que se encuentra compuesto de diversas capas y que se utiliza con el objetivo de ejecutar un código dentro de un contenedor de Docker.
+
+```bash
+docker run image_name:tag
+```
